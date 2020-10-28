@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+*ss
 # Distribution / packaging
 .Python
 env/
